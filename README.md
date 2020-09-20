@@ -1,16 +1,30 @@
+    
 ### Hi there 👋
 
-<!--
-**Venkat3103/Venkat3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Venkatasubramanian Narasimman
+[![Gmail Badge](https://img.shields.io/badge/-n.venkat3103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:n.venkat3013@gmail.com)](mailto:n.venkat3103@gmail.com)
+
+
+This is Venkat, a budding fullstack developer
+
+- 🌱 Languages - C++ , JAVA.
+- 🌱 A web development enthusiast
+- 🌱 Loves to build real-time applications
+
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=venkat3103&show_icons=true" alt="venkat3103" /></p>
+
+
+
+
+ 
+
+
+
+
+
+
+
+
