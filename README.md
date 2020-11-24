@@ -10,6 +10,7 @@
 This is Venkat, a budding fullstack developer
 
 - 🌱 Languages - C++ , JAVA.
+- 🌱 Frameworks - NodeJs , ReactJs.
 - 🌱 A web development enthusiast
 - 🌱 Loves to build real-time applications
 
