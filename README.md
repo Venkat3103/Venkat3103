@@ -9,7 +9,7 @@
 
 This is Venkatasubramanian, an aspiring Data Scientist.
 
-- 🌱 Languages - C++ , JAVA , SQL , Python
+- 🌱 Languages - Python, SQL, NoSQL, C++ , JAVA 
 - 🌱 Tools/Libraries/Frameworks - Tableau, Pandas, NumPy, Matplotlib, Scikit Learn, Seaborn, NodeJs , ReactJs.
 - 🌱 Areas of Interest - Machine Learning, Data Science/Analysis
 
